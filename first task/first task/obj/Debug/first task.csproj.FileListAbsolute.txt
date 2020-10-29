@@ -1,0 +1,10 @@
+C:\Users\antol\cs\azure\hekapoo\first task\first task\bin\Debug\first task.exe.config
+C:\Users\antol\cs\azure\hekapoo\first task\first task\bin\Debug\first task.exe
+C:\Users\antol\cs\azure\hekapoo\first task\first task\bin\Debug\first task.pdb
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first task.csprojAssemblyReference.cache
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first_task.Properties.Resources.resources
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first task.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first task.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first task.exe
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first task.pdb
+C:\Users\antol\cs\azure\hekapoo\first task\first task\obj\Debug\first_task.FormingHorns.resources
