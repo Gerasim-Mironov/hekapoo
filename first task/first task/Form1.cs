@@ -36,8 +36,8 @@ namespace first_task
             for (int i = 0; i < 10; i++)
             {
                 int number = rnd.Next(1, 2000);
-                MessageBox.Show($"это {number}?.", "akinator ha- ha", MessageBoxButtons.YesNo);
-                if(DialogResult==DialogResult.Yes)
+                DialogResult mt = MessageBox.Show($"это {number}?.", "akinator ha- ha", MessageBoxButtons.YesNo);
+                if(mt==DialogResult.Yes)
                 {
                     MessageBox.Show("хахахаха, я так и знал", "akinator ha- ha");
                     break;
