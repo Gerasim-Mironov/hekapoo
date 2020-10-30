@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cut up in the thirds", "cut up int he thirds\cut up in the thirds.csproj", "{CBFF6B49-5DB5-49AC-8E3E-045E06FD20DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFF6B49-5DB5-49AC-8E3E-045E06FD20DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFF6B49-5DB5-49AC-8E3E-045E06FD20DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFF6B49-5DB5-49AC-8E3E-045E06FD20DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFF6B49-5DB5-49AC-8E3E-045E06FD20DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3782A7-7655-4442-B1D0-99653080F20D}
+	EndGlobalSection
+EndGlobal

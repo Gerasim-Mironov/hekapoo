@@ -1,0 +1,10 @@
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount sinai.csprojAssemblyReference.cache
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount_sinai.Form1.resources
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount_sinai.Properties.Resources.resources
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount sinai.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount sinai.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\bin\Debug\mount sinai.exe.config
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\bin\Debug\mount sinai.exe
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\bin\Debug\mount sinai.pdb
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount sinai.exe
+C:\Users\antol\cs\azure\hekapoo\mount sinai\mount sinai\obj\Debug\mount sinai.pdb

@@ -1,0 +1,10 @@
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\bin\Debug\cut up int he thirds.exe.config
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\bin\Debug\cut up int he thirds.exe
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\bin\Debug\cut up int he thirds.pdb
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut_up_in_the_thirds.Form1.resources
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut_up_int_he_thirds.Properties.Resources.resources
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut up in the thirds.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut up in the thirds.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut up int he thirds.exe
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut up int he thirds.pdb
+C:\Users\antol\cs\azure\hekapoo\cut up int he thirds\cut up int he thirds\obj\Debug\cut up in the thirds.csprojAssemblyReference.cache
