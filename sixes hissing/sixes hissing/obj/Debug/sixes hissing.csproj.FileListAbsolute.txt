@@ -1,0 +1,10 @@
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\bin\Debug\sixes hissing.exe.config
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\bin\Debug\sixes hissing.exe
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\bin\Debug\sixes hissing.pdb
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes hissing.csprojAssemblyReference.cache
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes_hissing.Form1.resources
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes_hissing.Properties.Resources.resources
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes hissing.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes hissing.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes hissing.exe
+C:\Users\antol\cs\azure\hekapoo\sixes hissing\sixes hissing\obj\Debug\sixes hissing.pdb

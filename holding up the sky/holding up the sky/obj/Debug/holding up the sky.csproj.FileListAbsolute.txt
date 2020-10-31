@@ -1,0 +1,10 @@
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\bin\Debug\holding up the sky.exe.config
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\bin\Debug\holding up the sky.exe
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\bin\Debug\holding up the sky.pdb
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding up the sky.csprojAssemblyReference.cache
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding_up_the_sky.Form1.resources
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding_up_the_sky.Properties.Resources.resources
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding up the sky.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding up the sky.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding up the sky.exe
+C:\Users\antol\cs\azure\hekapoo\holding up the sky\holding up the sky\obj\Debug\holding up the sky.pdb
